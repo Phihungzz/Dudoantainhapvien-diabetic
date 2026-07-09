@@ -95,12 +95,13 @@ Dựa trên mức độ quan trọng của các giá trị số của mô hình 
 ### Installation
 1. Clone :
    git clone https://github.com/Phihungzz/Dudoantainhapvien-diabetic.git
+   
    cd Dudoantainhapvien-diabetic
 
-2. Tải dataset từ [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) và đặt trong folder với tên diabetic_data.csv.
+3. Tải dataset từ [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) và đặt trong folder với tên diabetic_data.csv.
 
-3. Khởi động Jupyter Notebook bằng cmd:
+4. Khởi động Jupyter Notebook bằng cmd:
    jupyter notebook
 
-4. Mở file prediction-readmission.ipynb và chạy để thực hiện phân tích.
+5. Mở file prediction-readmission.ipynb và chạy để thực hiện phân tích.
 
