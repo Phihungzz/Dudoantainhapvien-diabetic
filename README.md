@@ -43,8 +43,7 @@ Có thể dự đoán nguy cơ tái nhập viện với độ chính xác cao kh
 | A1c Test Result             | Kết quả xét nghiệm HbA1c                | >8%, >7%, Normal, None                                    |
 | Change of Medications       | Thay đổi thuốc điều trị đái tháo đường  | Change, No Change                                         |
 | Diabetes Medications        | Có sử dụng thuốc điều trị đái tháo đường| Yes, No                                                   |
-| Medication Features (24)    | Trạng thái của 24 loại thuốc điều 
-                                trị đái tháo đường (như: metformin, insulin)| Up, Down, Steady, No |
+| Medication Features (24)    | Trạng thái của 24 loại thuốc điều trị đái tháo đường (như: metformin, insulin)| Up, Down, Steady, No |
 | Readmitted                  | Thời gian tái nhập viện                 | <30 days, >30 days, No                                    |
 
 
