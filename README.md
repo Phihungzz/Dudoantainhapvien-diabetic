@@ -5,7 +5,7 @@
 
 ## Tổng quan đề tài
 
-Bài toán¶
+Bài toán
 Tái nhập viện xảy ra khi một bệnh nhân đã được xuất viện quay trở lại bệnh viện trong một khoảng thời gian nhất định. Tỷ lệ tái nhập viện cao thường phản ánh chất lượng điều trị hoặc chăm sóc sau xuất viện chưa tốt, đồng thời làm gia tăng chi phí y tế.
 
 Mục tiêu
