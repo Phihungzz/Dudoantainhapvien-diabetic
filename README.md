@@ -74,10 +74,6 @@ Có thể dự đoán nguy cơ tái nhập viện với độ chính xác cao kh
 5. **Trực quan hóa**:
    - Xuất file filepredict.csv để xem và trực quan hóa dữ liệu dựa trên bản đồ để dễ dàng xem xét và tương tác.
 
-## Results
-The final XGBoost model was evaluated on a test set (20% of data) with a focus on identifying patients at risk of readmission within 30 days.
-
-
 ### Các yêu tố để dự báo chính
 Dựa trên mức độ quan trọng của các giá trị số của mô hình XGBoost những yếu tố giúp dự đoán khả năng cao tái nhập viên gồm:
 1. **Number of Inpatient Visits**: Số lần nhập viện trước đó càng cao thì càng tỷ lệ thuận với nguy cơ tái nhập viện.
