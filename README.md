@@ -99,7 +99,7 @@ Dựa trên mức độ quan trọng của các giá trị số của mô hình 
 
 ### Installation
 1. Clone :
-   git clone https://github.com/Vraj-Data-Scientist/prediction-on-hospital-readmission.git
+   git clone https://github.com/Phihungzz/Dudoantainhapvien-diabetic.git
    cd Dudoantainhapvien-diabetic
 
 2. Tải dataset từ [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) và đặt trong folder với tên diabetic_data.csv.
